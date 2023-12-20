@@ -10,7 +10,7 @@ D can be any data spaced apart by any type of interval.
 X needs to make decisions of buy and selling stocks as accurately as possible.
 until Day Trading is permited, X must make trades of minimum a day long. X must not risk large amounts. X must give priorities to stocks which have higher success ratios to allocate more money to them.
 
-D must be information dense with respect to timeframe. D must not be redundant to conserve speed.
+D must be information dense with respect to timeframe. D must not be redundant for speed.
 
 ## Future:
 
